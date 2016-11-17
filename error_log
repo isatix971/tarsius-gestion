@@ -1,0 +1,2 @@
+[03-May-2016 01:56:03 UTC] PHP Fatal error:  Call to a member function set_userdata() on a non-object in /home/isatixor/public_html/tarsius/application/controllers/main.php on line 44
+[03-May-2016 01:57:31 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/isatixor/public_html/tarsius/application/views/head.php on line 8
